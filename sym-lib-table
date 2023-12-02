@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DCT-01")(type "KiCad")(uri "${KIPRJMOD}/DCT-01.kicad_sym")(options "")(descr ""))
+  (lib (name "Nilo")(type "Legacy")(uri "/home/nilo/Documents/Projects/KiCad/00 - Libraries/01 - Symbols/Nilo.lib")(options "")(descr "")(disabled))
+  (lib (name "MuRata")(type "KiCad")(uri "/home/nilo/Documents/Libraries/KiCAD/Symbols/MuRata/CSTNE8M00G55Z000R0.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "Board5")(type "KiCad")(uri "${KIPRJMOD}/Board5.kicad_sym")(options "")(descr ""))
+  (lib (name "Vishay")(type "KiCad")(uri "${KIPRJMOD}/DGT-01/Vishay.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML2502_sym")(type "KiCad")(uri "${KIPRJMOD}/IRLML2502_sym.kicad_sym")(options "")(descr ""))
+)
