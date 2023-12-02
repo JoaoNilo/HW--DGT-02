@@ -4338,7 +4338,7 @@
     )
     (pin "1" (uuid 0be9a034-56c6-43e6-b694-b329ad584400))
     (pin "2" (uuid 73ae6c2c-1b9a-4edc-a6ac-20422357c138))
-    (pin "2" (uuid 73ae6c2c-1b9a-4edc-a6ac-20422357c138))
+    (pin "2" (uuid 73ae6c2c-1b9a-4edc-a6ac-20422357c139))
     (pin "3" (uuid 7929a476-3e00-44d7-ae03-803ed1150c5e))
     (instances
       (project "DGT-02.kicad_pro"
@@ -4618,7 +4618,7 @@
     )
     (pin "1" (uuid 00a61176-3619-4e81-be2c-24519bbb52df))
     (pin "2" (uuid d69330c5-1f90-461b-b6e1-e7b1d2f5835e))
-    (pin "2" (uuid d69330c5-1f90-461b-b6e1-e7b1d2f5835e))
+    (pin "2" (uuid d69330c5-1f90-461b-b6e1-e7b1d2f5835f))
     (pin "3" (uuid ec499060-aff1-4161-a48f-718de919032f))
     (instances
       (project "DGT-02.kicad_pro"
@@ -5042,7 +5042,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148WS" (at 45.72 34.29 0)
-      (effects (font (size 1.27 1.27) (color 255 0 0 1)) (justify right))
+      (effects (font (size 1.27 1.27) (color 43 0 255 1)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323" (at 47.625 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
